@@ -1,0 +1,12 @@
+{
+  "name": "SWACM International — Share the Word Apostolic Church Ministries International",
+  "short_name": "SWACM Intl",
+  "description": "SWACM International. Rooted in the Word. Sent to serve.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#091d4a",
+  "icons": [
+    { "src": "assets/church-logo.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
